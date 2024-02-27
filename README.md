@@ -1,4 +1,4 @@
-# Apod-neumorphism-backend
+# Backend for Apod neumorphism
 
 This is a backend project developed in Java with Spring Boot that interacts with the NASA API to provide the Astronomy Picture of the Day (APOD) through requests from the repository [Apod-neumorphism-front](https://github.com/AmyLovelace/Apod-neumorphism-front).
 
