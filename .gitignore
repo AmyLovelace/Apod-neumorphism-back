@@ -40,3 +40,5 @@ gradlew
 gradlew.bat
 settings.gradle
 applications.properties
+.DS_Store
+gradle/wrapper
